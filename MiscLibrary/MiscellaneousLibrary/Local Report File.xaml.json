@@ -1,0 +1,64 @@
+{
+  "DisplayName": "Local Report File",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_ReportLocation",
+      "DisplayName": "in_ReportLocation",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": "TextComposer",
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": []
+    },
+    {
+      "Name": "in_ReportName",
+      "DisplayName": "in_ReportName",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": "TextComposer",
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": []
+    },
+    {
+      "Name": "in_LineMessage",
+      "DisplayName": "in_LineMessage",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": "TextComposer",
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "DataSourceItems": []
+    },
+    {
+      "Name": "in_CreateNew",
+      "DisplayName": "in_CreateNew",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": "Toggle",
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": []
+    },
+    {
+      "Name": "in_OpenReport",
+      "DisplayName": "in_OpenReport",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": "Toggle",
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": []
+    }
+  ]
+}

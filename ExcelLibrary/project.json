@@ -1,0 +1,83 @@
+{
+  "name": "ExcelLibrary",
+  "description": "Use a library with scores of pre-built macros.",
+  "main": "NewActivity.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "2.17.0-preview",
+    "UiPath.System.Activities": "22.10.4",
+    "UiPath.Testing.Activities": "22.12.0-preview"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "22.12.0.0",
+  "projectVersion": "1.0.1",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Library",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "bdef5a4e-ca58-4201-893f-fbcb3b057abf",
+        "dataVariationFilePath": ".variations\\IndexToColumnLetter_Sheet1_2.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCase_IndexToColumnLetter_Activities.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "f5b5ddd0-67eb-4603-bc49-7abf0cf22448",
+        "dataVariationFilePath": ".variations\\IndexToColumnLetter_Sheet1_2.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCase_IndexToColumnLetter.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "483cc9b8-a692-407c-8d51-ec07ca63b32f",
+        "dataVariationFilePath": ".variations\\AutoFitColumn_Sheet1.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCase_AutoFitColumns.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "56d033c9-ff6c-4438-8a3b-00227ac7a301",
+        "dataVariationFilePath": ".variations\\ConvertExcelFileType_Sheet1.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCase_ConvertFileType.xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

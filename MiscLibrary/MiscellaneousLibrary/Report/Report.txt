@@ -1,0 +1,5 @@
+Report File created: 01/26/2023 11:36:03
+
+01/26/2023 11:36:04: Hello! Looks like you’re enjoying the discussion, but you haven’t signed up for an account yet. If you already have a UiPath SSO account (i.e. on cloud.uipath.com), simply log in now. Otherwise, create an account to have access to all UiPath Platforms.
+01/26/2023 11:36:38: Hello! Looks like you’re enjoying the discussion, but you haven’t signed up for an account yet. If you already have a UiPath SSO account (i.e. on cloud.uipath.com), simply log in now. Otherwise, create an account to have access to all UiPath Platforms.
+01/26/2023 11:37:02: Hello! Looks like you’re enjoying the discussion, but you haven’t signed up for an account yet. If you already have a UiPath SSO account (i.e. on cloud.uipath.com), simply log in now. Otherwise, create an account to have access to all UiPath Platforms.
